@@ -1,6 +1,11 @@
 ML_classification (Tasca M7 T01)
 
-Exercicis d'algoritmes de Classificació.
+OBJECTIUS:
+- Aplicar correctament els algoritmes d'aprenentatge supervisat de Classificació. 
+- Conèixer variables i tècniques de Classificació (Arbres de classificació, K – Nearest Neightbours, Regressió Logística, Support Vector Machine, XGBoost).  
+- Avaluar models de classificació.   
+
+Exercicis d'algoritmes de Classificació:
 
 Exercici 1 Crea almenys dos models de classificació diferents per intentar predir el millor, les classes de l'arxiu adjunt.
 
